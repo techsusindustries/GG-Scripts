@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://goongang.techsusindustries.com/src.txt"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/techsusindustries/GG-Scripts/refs/heads/main/GG-Scripts-Old/GGSH-SRC.lua"))()
 
 local gui = Library:create{
     Name = "Goon Gang Hub",
